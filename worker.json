@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "data": [
+    {
+      "worker": "gtx1050",
+      "time": 1506274200,
+      "lastSeen": 1506274170,
+      "reportedHashrate": 74524645,
+      "currentHashrate": 51833333.333333336,
+      "validShares": 46,
+      "invalidShares": 0,
+      "staleShares": 1,
+      "averageHashrate": 57721296.29629628
+    },
+    {
+      "worker": "rx470",
+      "time": 1506274200,
+      "lastSeen": 1506274102,
+      "reportedHashrate": 85760401,
+      "currentHashrate": 78888888.8888889,
+      "validShares": 71,
+      "invalidShares": 0,
+      "staleShares": 0,
+      "averageHashrate": 76264814.81481482
+    }
+  ]
+}

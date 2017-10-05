@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 119409219,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 267064781,
+          "is_bot": false,
+          "first_name": "aleksandr",
+          "last_name": "panarin",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 267064781,
+          "first_name": "aleksandr",
+          "last_name": "panarin",
+          "type": "private"
+        },
+        "date": 1506254414,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 119409220,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 267064781,
+          "is_bot": false,
+          "first_name": "aleksandr",
+          "last_name": "panarin",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 267064781,
+          "first_name": "aleksandr",
+          "last_name": "panarin",
+          "type": "private"
+        },
+        "date": 1506254417,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "status": "OK",
+    "data": [
+      {
+        "worker": "gtx1050",
+        "time": 1506277200,
+        "lastSeen": 1506277077,
+        "reportedHashrate": 74634791,
+        "currentHashrate": 54444444.44444445,
+        "validShares": 49,
+        "invalidShares": 0,
+        "staleShares": 0,
+        "averageHashrate": 57343589.74358974
+      },
+      {
+        "worker": "rx470",
+        "time": 1506277200,
+        "lastSeen": 1506277118,
+        "reportedHashrate": 85734363,
+        "currentHashrate": 78500000,
+        "validShares": 70,
+        "invalidShares": 0,
+        "staleShares": 1,
+        "averageHashrate": 76380341.88034189
+      }
+    ]
+  },
+  {
+    "status": "OK",
+    "data": {
+      "minedBlocks": [
+        {
+          "number": 4308200,
+          "miner": "e2bd8d8d69e6f4bd815bc8662460370cf8db3b7c",
+          "time": 1506277363
+        },
+        {
+          "number": 4308199,
+          "miner": "7C6Ec772B695c2ea820d0C3120B0dEC8770949c1",
+          "time": 1506277335
+        },
+        {
+          "number": 4308196,
+          "miner": "4b81107b80bf27067fb7e5e93ea4495f94f26471",
+          "time": 1506277302
+        },
+        {
+          "number": 4308191,
+          "miner": "959d2a0c0B023549716f33EB1232Dd8b296a24b6",
+          "time": 1506277173
+        },
+        {
+          "number": 4308191,
+          "miner": "A0fE4382554E6dD27509a826eDecF68dF12901e5",
+          "time": 1506277173
+        },
+        {
+          "number": 4308183,
+          "miner": "4349EA5f2C58a3a66fDbD523c76F28935B000A09",
+          "time": 1506276955
+        },
+        {
+          "number": 4308180,
+          "miner": "749A521E5e07f8A8ec1e3C3489f03d00e2d43013",
+          "time": 1506276921
+        },
+        {
+          "number": 4308179,
+          "miner": "7fa2f037484235c158555c87818e3f413d994cb2",
+          "time": 1506276902
+        },
+        {
+          "number": 4308175,
+          "miner": "48b829c0e763fe7950b5272c838ab81c2aeded72",
+          "time": 1506276763
+        },
+        {
+          "number": 4308172,
+          "miner": "357c7133d0f3d5a33b2dad147d981de33f1583b6",
+          "time": 1506276624
+        }
+      ],
+      "topMiners": [
+        {
+          "miner": "6d70d69cfcca804db3cf7eafcb3f5c1e0129133a",
+          "hashRate": 362301444444.44446
+        },
+        {
+          "miner": "a65f825e4f82c26aee244512cba7add256bc0788",
+          "hashRate": 123692333333.33344
+        },
+        {
+          "miner": "362c89a6d8a1597ff41eb03e1e897d0d95827c54",
+          "hashRate": 123519388888.88896
+        },
+        {
+          "miner": "58801ebec6685d0d5461a30999fa5df91549a59e",
+          "hashRate": 79352777777.77785
+        },
+        {
+          "miner": "482f7753b3d62c7d1fd0fdcb8fcc2d61704dfced",
+          "hashRate": 73786999999.99997
+        },
+        {
+          "miner": "1cf6b3cfeb7e14e917a28e3e52b183a6d4fee24c",
+          "hashRate": 68579888888.88887
+        },
+        {
+          "miner": "ccbd08939e32564544827f37d6f65282ca2bae61",
+          "hashRate": 57728444444.44442
+        },
+        {
+          "miner": "8613a3342fe57860a3403bf8b1f0c63c2566a34d",
+          "hashRate": 45685166666.66666
+        },
+        {
+          "miner": "ee43e9c6ccc4ee0c55899ab83695bd22e1d603b3",
+          "hashRate": 43058666666.66672
+        },
+        {
+          "miner": "f90ae4c56ca9bc7163e6044ee04789db36d5e13e",
+          "hashRate": 35914166666.66669
+        }
+      ],
+      "poolStats": {
+        "hashRate": 25072683277778.61,
+        "miners": 65460,
+        "workers": 212645,
+        "blocksPerHour": 29.71
+      },
+      "price": {
+        "usd": 283.2,
+        "btc": 0.07731
+      }
+    }
+  }
+]
